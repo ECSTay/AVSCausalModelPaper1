@@ -1,2 +1,4 @@
 # AVSCausalModel
 R and Stan code used in data simulations in the initial simulation study examining factors which influence the reporting of medically attended vaccine reactions to further understanding of vaccine safety signals.
+
+Factors influencing signal detection were investigated upon data generated under 12 scenarios differing in prevalence of a moderate to SR and SP. The simulation code HHHH_PPA.R includes the simulation for the HHHH scenario and also Bayesian analysis code applying the simplified PPA method. The LLLL scenario was used as the reference data for the PPA anaylsis of each scenaio. The same LLLL scenario was used as the reference data for the PPA analysis of each scenario. The scenarios each differ in the event probabilities incorporated in the data simulations. Please refer to the main text and supplementary materials for the details of the deisgn of the scenarios.
